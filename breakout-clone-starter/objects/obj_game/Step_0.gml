@@ -2,7 +2,10 @@
 
 // Check if there are any bricks left in the room.
 // The function instance_number() is a clear way to count instances.
-if (instance_number(obj_brick) == 0) {
+if (instance_number(obj_brick) == 0)
+if (instance_number(obj_brick_1) == 0){
+if (instance_number(obj_brick_2) == 0){
+if (instance_number(obj_brick_3) == 0){
     // If no bricks exist, the player wins!
     // For now, we'll just restart the room.
     // A good extension is to show a win message or go to the next level.

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brick",
+  "%Name":"obj_brick_1",
   "eventList":[],
   "managed":true,
-  "name":"obj_brick",
+  "name":"obj_brick_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite12",
-    "path":"sprites/Sprite12/Sprite12.yy",
+    "name":"Sprite13",
+    "path":"sprites/Sprite13/Sprite13.yy",
   },
   "spriteMaskId":null,
   "visible":true,
